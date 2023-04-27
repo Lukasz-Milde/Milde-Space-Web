@@ -1,3 +1,7 @@
-body {
-	background-color: pink;
-}
+@use "../sections/generals";
+@use "../sections/header";
+@use "../sections/about";
+@use "../sections/skills";
+@use "../sections/projects";
+@use "../sections/contact";
+@use "../sections/footer";
